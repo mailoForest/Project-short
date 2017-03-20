@@ -1,0 +1,14 @@
+#wrapper {
+    width: 75%;
+    margin: 0 auto;
+    background: khaki;
+    padding: 3em;
+}
+img{
+    width: 10em;
+    border-radius: 50em;
+}
+.fa-remove {
+    cursor: pointer;
+    padding: 10%;
+}
